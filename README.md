@@ -7,6 +7,10 @@
 
 - 🔥 I'm a student, learning about full stack web development
 - ⌚ I use wakatime to track my weekly income
+<br><br>
+
+## ⌚ &nbsp;Waka Time
+[![RafaelCardoso990's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelCardoso990)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
@@ -27,9 +31,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="maykbrito's stats"       align="right"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="left"/>  
+<div>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="maykbrito's stats"       align="center"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
 </div>  
 
 
