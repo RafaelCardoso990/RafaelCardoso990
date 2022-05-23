@@ -5,14 +5,15 @@
   <img align="right" height="560em" src="https://user-images.githubusercontent.com/93937958/169828632-e548fa7d-1306-4e37-8f62-fe8647b906a0.gif" />
 </div>
 
-- 🔥 I'm a student, learning about full stack web development
+- 👨‍💻 I'm a student, learning about full stack web development
 - ⌚ I use wakatime to track my weekly income
 
+## 📱 &nbsp;Social Media & Contact
+
+<a href="https://www.instagram.com/rafiinha_cardoso/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram)&nbsp;</a>
+<a href="https://www.linkedin.com/in/rafael-ferreira-cardoso-394515b5/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin)&nbsp;</a>
+<a href="mailto:rafaelcardoso990@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;</a>
 <br><br>
-
-## ⌚ &nbsp;Waka Time
-
-[![RafaelCardoso990's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelCardoso990)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
@@ -27,7 +28,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+<br><br>
+
+## ⌚ &nbsp;Waka Time
+
+[![RafaelCardoso990's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelCardoso990)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
@@ -37,6 +46,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="Rafael's stats"       align="center"/>
   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
 </div>  
+
+
 
 
 
