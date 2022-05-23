@@ -8,12 +8,16 @@
 - 👨‍💻 I'm a student, learning about full stack web development
 - ⌚ I use wakatime to track my weekly income
 
-## 📱 &nbsp;Social Media & Contact
+## ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://www.instagram.com/rafiinha_cardoso/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram)&nbsp;</a>
-<a href="https://www.linkedin.com/in/rafael-ferreira-cardoso-394515b5/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin)&nbsp;</a>
-<a href="mailto:rafaelcardoso990@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;</a>
-<br><br>
+<div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="Rafael's stats"       align="center"/>
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
+</div>  
+
+## ⌚ &nbsp;Waka Time
+
+[![RafaelCardoso990's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelCardoso990)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
@@ -34,18 +38,20 @@
 
 <br><br>
 
-## ⌚ &nbsp;Waka Time
 
-[![RafaelCardoso990's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelCardoso990)](https://github.com/anuraghazra/github-readme-stats)
+## 📱 &nbsp;Social Media & Contact
+
+<a href="https://www.instagram.com/rafiinha_cardoso/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram)&nbsp;</a>
+<a href="https://www.linkedin.com/in/rafael-ferreira-cardoso-394515b5/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin)&nbsp;</a>
+<a href="mailto:rafaelcardoso990@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;</a>
+<br><br>
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="Rafael's stats"       align="center"/>
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
-</div>  
+
+
+
 
 
 
