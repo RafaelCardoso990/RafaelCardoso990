@@ -1,15 +1,18 @@
 
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Cardoso</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RafaelCardoso990&color=yellow" alt="Profile views" /> </p>
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/93937958/169828632-e548fa7d-1306-4e37-8f62-fe8647b906a0.gif"/>
-
+<div>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Cardoso</h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafaelCardoso990&color=yellow" alt="Profile views" /> </p>
+  
+</div>
+<img height="560em" src="https://user-images.githubusercontent.com/93937958/169828632-e548fa7d-1306-4e37-8f62-fe8647b906a0.gif" align="right"/>
 
 - 🔥 I'm a student, learning about full stack web development
 - ⌚ I use wakatime to track my weekly income
+
 <br><br>
 
 ## ⌚ &nbsp;Waka Time
+
 [![RafaelCardoso990's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelCardoso990)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
@@ -32,7 +35,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="maykbrito's stats"       align="center"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="Rafael's stats"       align="center"/>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
 </div>  
 
