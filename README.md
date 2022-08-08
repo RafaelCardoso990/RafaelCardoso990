@@ -15,10 +15,6 @@
   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
 </div>  
 
-## ⌚ &nbsp;Waka Time
-
-[![RafaelCardoso990's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RafaelCardoso990)](https://github.com/anuraghazra/github-readme-stats)
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
