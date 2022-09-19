@@ -2,8 +2,7 @@
 <div>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Cardoso</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafaelCardoso990&color=blue" alt="Profile views" /> </p>
-  <img align="right" height="560em" src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/93937958/191046573-8505a0b4-6cf3-4c83-8aa9-8147d21ac7d0.gif)
-" />
+  <img align="right" height="560em" src="https://user-images.githubusercontent.com/93937958/191046573-8505a0b4-6cf3-4c83-8aa9-8147d21ac7d0.gif" />
 </div>
 
 - 👨‍💻 I'm a developer, aways learning about full stack web development
