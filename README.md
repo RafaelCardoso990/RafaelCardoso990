@@ -5,7 +5,7 @@
   <img align="right" height="560em" src="https://user-images.githubusercontent.com/93937958/169828632-e548fa7d-1306-4e37-8f62-fe8647b906a0.gif" />
 </div>
 
-- 👨‍💻 I'm a student, learning about full stack web development
+- 👨‍💻 I'm a developer, aways learning about full stack web development
 - ⌚ I use wakatime to track my weekly income
 
 ## ⚙️ &nbsp;GitHub Analytics
