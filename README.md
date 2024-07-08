@@ -2,17 +2,22 @@
 <div>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Cardoso</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafaelCardoso990&color=blue" alt="Profile views" /> </p>
-  <img align="right" height="560em" src="https://user-images.githubusercontent.com/93937958/191046573-8505a0b4-6cf3-4c83-8aa9-8147d21ac7d0.gif" />
+
 </div>
 
-- 👨‍💻 I'm a developer, aways learning about full stack web development
-- ⌚ I use wakatime to track my weekly income
+💼 Bachelor's degree student in computer science
+<br><br>
+💻 Computer Technician
+<br><br>
+🌱 Full Stack Developer
+<br><br>
+🎸 I like to practice guitar in my free time
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="Rafael's stats"       align="center"/>
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
 </div>  
 
 <br><br>
