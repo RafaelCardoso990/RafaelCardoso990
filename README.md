@@ -1,48 +1,34 @@
 
-<div>
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Cardoso</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafaelCardoso990&color=blue" alt="Profile views" /> </p>
+## Olá! Eu sou o Rafael Cardoso  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-</div>
+Acredito que a tecnologia pode transformar negócios e vidas. Cada linha de código que escrevo busca criar experiências digitais intuitivas e funcionais, do levantamento de requisitos à entrega com qualidade.
 
-💼 Bachelor's degree student in computer science
-<br><br>
-💻 Computer Technician
-<br><br>
-🌱 Full Stack Developer
-<br><br>
-🎸 I like to practice guitar in my free time
 
-## ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
-<div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=default" alt="Rafael's stats"       align="center"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=default" alt="Rafael most    languages" align="center"/>  
-</div>  
 
-<br><br>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=radical" alt="Rafael's stats"       align="center"/>
 
-## 🛠 &nbsp;Tech Stack
+
+### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![OpenAI](https://img.shields.io/badge/-GPT-05122A?style=flat&logo=openai)&nbsp;
 
 
 
 
 ## 📱 &nbsp;Social Media & Contact
 
-<a href="https://www.instagram.com/rafiinha_cardoso/" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram)&nbsp;</a>
 <a href="https://www.linkedin.com/in/rafael-ferreira-cardoso-394515b5/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin)&nbsp;</a>
 <a href="mailto:rafaelcardoso990@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;</a>
 <br><br>
