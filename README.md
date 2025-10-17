@@ -1,12 +1,9 @@
-
 ## 👋 Olá! Eu sou o Rafael Cardoso
 
-> “A tecnologia é a ponte entre ideias e realidades.”
+Sou Desenvolvedor FullStack apaixonado por tecnologia e inovação.  
+Acredito que a tecnologia tem o poder de transformar ideias em soluções reais, e cada linha de código que escrevo busca criar experiências digitais intuitivas, eficientes e de alta performance.  
 
-Sou Desenvolvedor FullStack apaixonado por inovação e pelo impacto que a tecnologia pode causar em negócios e na vida das pessoas.  
-Cada linha de código que escrevo é pensada para gerar experiências digitais intuitivas, acessíveis e de alta performance — do levantamento de requisitos à entrega final com qualidade.
-
-🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e busco constantemente evoluir como profissional e pessoa, aprendendo novas ferramentas, padrões e boas práticas do mercado.
+🎓 Atualmente sou estudante de Ciência da Computação e estou em constante evolução, aprendendo novas ferramentas, padrões e boas práticas para desenvolver projetos modernos e escaláveis.
 
 ---
 
@@ -33,15 +30,4 @@ Cada linha de código que escrevo é pensada para gerar experiências digitais i
 
 ---
 
-🧭 Sempre aberto a novos desafios, colaborações e oportunidades de criar soluções que realmente façam a diferença.
-
-
-
-
-
-
-
-
-
-
-
+🧭 Sempre aberto a novos desafios, colaborações e oportunidades para criar soluções que gerem impacto real.
