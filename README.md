@@ -1,40 +1,39 @@
 
-## Olá! Eu sou o Rafael Cardoso  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## 👋 Olá! Eu sou o Rafael Cardoso
 
-Acredito que a tecnologia pode transformar negócios e vidas. Cada linha de código que escrevo busca criar experiências digitais intuitivas e funcionais, do levantamento de requisitos à entrega com qualidade.
+> “A tecnologia é a ponte entre ideias e realidades.”
 
+Sou Desenvolvedor FullStack apaixonado por inovação e pelo impacto que a tecnologia pode causar em negócios e na vida das pessoas.  
+Cada linha de código que escrevo é pensada para gerar experiências digitais intuitivas, acessíveis e de alta performance — do levantamento de requisitos à entrega final com qualidade.
 
-### ⚙️ &nbsp;GitHub Analytics
+🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e busco constantemente evoluir como profissional e pessoa, aprendendo novas ferramentas, padrões e boas práticas do mercado.
 
+---
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=radical" alt="Rafael's stats"       align="center"/>
+### 🧠 Tech Stack
 
+- **Front-End:** React, Next.js, TypeScript, JavaScript, HTML, CSS  
+- **Back-End:** Node.js, NestJS, Python  
+- **Banco de Dados:** PostgreSQL, Prisma  
+- **Ferramentas & DevOps:** Docker, Git, GitHub, OpenAI API  
+- **Boas Práticas:** Clean Code, SOLID, metodologias ágeis
 
-### 🛠 &nbsp;Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![OpenAI](https://img.shields.io/badge/-GPT-05122A?style=flat&logo=openai)&nbsp;
+### 📊 GitHub Analytics
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=radical" alt="Rafael's stats" align="center"/>
 
+---
 
-
-## 📱 &nbsp;Social Media & Contact
+### 📫 Entre em contato comigo
 
 <a href="https://www.linkedin.com/in/rafael-ferreira-cardoso-394515b5/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin)&nbsp;</a>
 <a href="mailto:rafaelcardoso990@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;</a>
-<br><br>
 
-<br><br>
+---
 
+🧭 Sempre aberto a novos desafios, colaborações e oportunidades de criar soluções que realmente façam a diferença.
 
 
 
