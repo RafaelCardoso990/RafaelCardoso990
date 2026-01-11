@@ -9,11 +9,12 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais,
 
 ### 🧠 Tech Stack
 
-- **Front-End:** React, Next.js, TypeScript, JavaScript, HTML, CSS  
-- **Back-End:** Node.js, NestJS, Python  
-- **Banco de Dados:** PostgreSQL, Prisma  
-- **Ferramentas & DevOps:** Docker, Git, GitHub, OpenAI API  
-- **Boas Práticas:** Clean Code, SOLID, metodologias ágeis
+- **Front-End**: Angular 18+, TypeScript, SASS (Tailwind CSS), RxJS, Signals, React, Next
+- **Arquitetura**: Clean Architecture, Domain-Driven Design (DDD)  
+- **Back-End:** .NET 8, C#, ASP.NET Core Web API, Node.js, NestJS, Python  
+- **Banco de Dados:** PostgreSQL, Prisma, SQL Server, Entity Framework Core (EF Core)  
+- **Ferramentas & DevOps:** Docker, Git, GitHub, OpenAI API, Swagger  
+- **Boas Práticas:** SOLID, Use Cases, Dependency Inversion, Metodologias Ágeis ,Clean Code, metodologias ágeis
 - 
 ---
 
