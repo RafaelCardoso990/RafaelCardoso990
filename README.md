@@ -20,6 +20,9 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais,
 ### 📊 GitHub Analytics
 
 [![Rafael's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelCardoso990&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 
