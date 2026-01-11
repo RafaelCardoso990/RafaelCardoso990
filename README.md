@@ -24,6 +24,7 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais,
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCardoso990&repo=Gtech-Manager-Backend&theme=tokyonight)](https://github.com/RafaelCardoso990/Gtech-Manager-Backend)
 ---
 
 ### 📫 Entre em contato comigo
