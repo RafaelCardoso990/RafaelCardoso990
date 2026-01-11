@@ -37,7 +37,7 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais,
           <img src="https://img.shields.io/badge/PROJETO-GTECH--MANAGER-8A2BE2?style=for-the-badge&logo=microsoft-dotnet&logoColor=white" />
         </a>
         <br />
-        <strong>Sistema de Gestão de Barbearia</strong><br />
+        <strong>Sistema de Gestão de Oficinas</strong><br />
         <sub>Clean Architecture • .NET 8 • Angular 18 • SQL Server</sub>
       </div>
     </td>
