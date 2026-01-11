@@ -19,7 +19,12 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais,
 
 ### 📊 GitHub Analytics
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=radical" alt="Rafael's stats" align="center"/>
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=RafaelCardoso990&show_icons=true&theme=radical" alt="Rafael's stats" />
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCardoso990&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
