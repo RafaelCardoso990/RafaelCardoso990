@@ -29,11 +29,20 @@ Acredito que a tecnologia tem o poder de transformar ideias em soluções reais,
 
 ### 🚀 Projeto em Destaque
 
-<p align="center">
-  <a href="https://github.com/RafaelCardoso990/Gtech-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelCardoso990&repo=Gtech-manager&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <div align="center">
+        <a href="https://github.com/RafaelCardoso990/Gtech-manager">
+          <img src="https://img.shields.io/badge/PROJETO-GTECH--MANAGER-8A2BE2?style=for-the-badge&logo=microsoft-dotnet&logoColor=white" />
+        </a>
+        <br />
+        <strong>Sistema de Gestão de Barbearia</strong><br />
+        <sub>Clean Architecture • .NET 8 • Angular 18 • SQL Server</sub>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ### 📫 Entre em contato comigo
 
